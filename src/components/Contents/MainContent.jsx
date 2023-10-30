@@ -1,6 +1,7 @@
-import Item from "./Item";
-import imgArticle1 from "../images/landscape1.jpg";
-import imgArticle2 from "../images/landscape2.jpg";
+import Item from "./components/Item";
+
+import imgArticle1 from "../../images/landscape1.jpg";
+import imgArticle2 from "../../images/landscape2.jpg";
 
 const MainContent = () => {
   return (

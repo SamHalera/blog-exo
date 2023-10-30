@@ -1,4 +1,4 @@
-import imgAboutMe from "../images/aboutme.jpg";
+import imgAboutMe from "../../../images/aboutme.jpg";
 const AboutMe = () => {
   return (
     <div className="about-me">
